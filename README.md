@@ -19,3 +19,8 @@ Aplicación orientada a objetos desarrollada en Python **sin uso de bases de dat
    ```bash
    python main.py
    ```
+   
+## Autores y Créditos de Colaboración (UNAD - Grupo Colaborativo)
+* **Gustavo Adolfo Silva Hios (`tecnisistem84-prog`):** Creación del repositorio base, arquitectura POO y lógica principal del sistema.
+* **Camilo Alexander Anacona Jiménez (`CamiloJi`):** Estandarización modular (`.py` según PEP 8), documentación de clases, archivo `.gitignore` y reporte financiero en `GestorFJ`.
+* **Kevin Alejandro Olave Arcos (`alejandroolave`):** Documentación detallada de los bloques de prueba y validación en `main.py`.
